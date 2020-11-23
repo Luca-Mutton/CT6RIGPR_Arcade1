@@ -1,0 +1,8 @@
+D:\Final Year Project\CT6RIGPR_Arcade1\Intermediate\Build\Win64\UE4Editor\Development\CT6RIGPR_Arcade1\Definitions.CT6RIGPR_Arcade1.h
+D:\Final Year Project\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1\ScorePoints.h
+D:\Final Year Project\CT6RIGPR_Arcade1\Intermediate\Build\Win64\UE4Editor\Inc\CT6RIGPR_Arcade1\ScorePoints.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

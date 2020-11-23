@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CT6RIGPR_Arcade1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CC0A6E1C-4246-4CE0-B2C7-88E49FBC2118}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CT6RIGPR_Arcade1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CT6RIGPR_Arcade1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{036CAC73-97F3-4CFD-839A-15AA9D59F201}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CT6RIGPR_Arcade1">
+      <UniqueIdentifier>{E8B536A6-BCF2-46AB-BB51-517594AE0808}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\CountdownTimer.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\CountdownTimer.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1.Build.cs">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1Ball.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1Ball.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1GameMode.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1GameMode.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\FallingFloor.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\FallingFloor.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\FallingPlatform.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\FallingPlatform.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\ScorePoints.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\ScorePoints.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CT6RIGPR_Arcade1\Countdown.h">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CT6RIGPR_Arcade1\Countdown.cpp">
+      <Filter>Source\CT6RIGPR_Arcade1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
