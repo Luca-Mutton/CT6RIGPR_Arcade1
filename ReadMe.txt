@@ -6,3 +6,5 @@ There will be telporters that the player will stand on that will take to the pla
 
 Controls:
 You use the motion controls of the mouse to move the character.
+Middle mouse button: jump
+Left and right mouse buttons: Turn the camera
