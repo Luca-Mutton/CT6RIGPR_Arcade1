@@ -2,6 +2,12 @@ CT6RIGPR ARCADE1 Floor It!
 
 Description
 
+The game is an arcade platformer where the player will control a vehicle with the goal of collecting a certain amount of points, 
+whilst playing against a timer, to progress to the next level by colliding with an object. This functionality works, however, in the 
+game at present only an initial temporary level has been implemented to allow functionality testing and design experimentation.
+
+The player must collect 200 points to progress to next level.
+
 Project Status
 In the game so far, the player will control a character where they will have to traverse across a level consisting of 
 falling platforms that will fall when the player has touched one of them. The character moves by using the motion controls of the mouse 
@@ -16,7 +22,7 @@ restart the level as there isn’t a second level to progress to yet. There is a
 player has been playing this level for.
 
 Controls:
-You use the motion controls of the mouse to move the character.
+You use the x y motion controls of the mouse to move the character.
 Middle mouse button: jump
 Left and right mouse buttons: Turn the camera 
 
@@ -32,6 +38,5 @@ Andrew - Artist
 Vinnie - Artist
 Sam - Animator
 Jaydon- Designer
-Becca - Designer
 
 
