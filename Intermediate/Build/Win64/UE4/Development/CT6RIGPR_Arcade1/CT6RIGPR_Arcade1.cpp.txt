@@ -1,0 +1,2 @@
+D:\Arcade 1\CT6RIGPR_Arcade1\Intermediate\Build\Win64\UE4\Development\CT6RIGPR_Arcade1\Definitions.CT6RIGPR_Arcade1.h
+D:\Arcade 1\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1.h
