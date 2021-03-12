@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeCT6RIGPR_Arcade1_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x1591FBC4,
-				0x5537AA76,
+				0x14322D35,
+				0x7A5086E7,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
