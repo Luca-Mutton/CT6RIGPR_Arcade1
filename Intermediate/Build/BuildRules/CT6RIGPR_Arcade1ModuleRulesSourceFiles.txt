@@ -1,3 +1,3 @@
-D:\Arcade 1\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1.Build.cs
-D:\Arcade 1\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1.Target.cs
-D:\Arcade 1\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1Editor.Target.cs
+O:\CT6\RIGPR\FloorIt\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1\CT6RIGPR_Arcade1.Build.cs
+O:\CT6\RIGPR\FloorIt\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1.Target.cs
+O:\CT6\RIGPR\FloorIt\CT6RIGPR_Arcade1\Source\CT6RIGPR_Arcade1Editor.Target.cs
