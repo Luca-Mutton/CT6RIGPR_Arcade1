@@ -6,7 +6,7 @@ The game is an arcade platformer where the player will control a ball with the g
 whilst playing against a timer, to progress to the next level by colliding with an object. The score is saved once you have completed the second level 
 or you have died before finisihing the game.
 
-The player must collect 200 points to progress to next level.
+The player must collect 1000 points to progress to next level.
 
 Project Status
 In the game so far, the player will control a character where they will have to traverse across a level consisting of 
