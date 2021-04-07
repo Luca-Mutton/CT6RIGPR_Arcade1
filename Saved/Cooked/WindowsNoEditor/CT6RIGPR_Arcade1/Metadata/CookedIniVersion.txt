@@ -1899,7 +1899,7 @@ Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:19=(Path="/
 Windows.Game:StartupActions:bAddPacks:0=False
 Windows.Game:StartupActions:InsertPack:0=(PackSource="StarterContent.upack",PackName="StarterContent")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/Arcade 1/CT6RIGPR_Arcade1/WindowsNoEditor")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/Arcade 1/CT6RIGPR_Arcade1")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
